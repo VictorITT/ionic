@@ -1,0 +1,8 @@
+{
+  "name": "Arakna",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3bf4db7c"
+}
